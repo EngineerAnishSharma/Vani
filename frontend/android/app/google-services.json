@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1055124582182",
+    "project_id": "code-voyagers",
+    "storage_bucket": "code-voyagers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055124582182:android:ab4ef7fd2a12b23499dbe7",
+        "android_client_info": {
+          "package_name": "com.example.fronted"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055124582182-kch7gatb85qs6fnhdg2qircsd6grsqa3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fronted",
+            "certificate_hash": "5d75a05635cd17b9644402180beda18d840f3195"
+          }
+        },
+        {
+          "client_id": "1055124582182-neul44hj9vbrjioa2uqqo8gev8nmo49n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWOV874CRciorrb3e09ia_4LXzuA4tWy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055124582182-1ec3mo0caob14mvp4lq731lfsrjf3pk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

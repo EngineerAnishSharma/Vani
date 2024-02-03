@@ -1,0 +1,63 @@
+Key, en, hi
+vani_app_name, Vani, वानी
+vani_app_welcome, Welcome to VANI, वाणी में आपका स्वागत है
+
+vani_login_desc, Log In to Vani, वाणी में लॉग इन करें
+vani_email, Email, ईमेल
+vani_password, Password, पासवर्ड
+vani_forgot_pass, Forget Password, पासवर्ड भूल गए
+vani_login, Login, लॉग इन
+vani_or_create_an_account, or create a new Account, या एक नया खाता बनाएँ
+vani_sign_up, Sign Up, साइन अप
+vani_login_with, Log in with, अथावा इनसे लॉगइन कीजिए
+
+vani_signup_desc, Join Vani, वाणी से जुड़ें,
+vani_name, Name, नाम
+vani_confirm_password, Confirm Password, पासवर्ड फिर से दर्ज करें
+vani_i_agree_to_the_toc_and_pp, I agree to the Terms and Conditions & Privacy Policy, मैं नियम एवं शर्तों और गोपनीयता नीति से सहमत हूं
+vani_already_have_an_account, Already have an account? , क्या आपके पास पहले से एक खाता मौजूद है?
+
+home_welcome, Welcome, स्वागत
+home_tagline, Let's rule the world through language, आइए भाषा के माध्यम से दुनिया पर राज करें
+home_alphabets, Alphabets, अक्षर
+home_words, Words, शब्द
+home_sentences, Sentences, वाक्य
+home_search_placeholder, Search Anything ...,कुछ भी खोजें...
+home_explore, Explore, अन्वेषण
+home_slider, Practice with Letters, अक्षरों के साथ अभ्यास करें
+home_slider1, Practice with Words,  शब्दों के साथ अभ्यास करें
+
+
+letters_swar, Swar, स्वर
+letters_velar, Velar, वेलार
+letters_palatal, Palatal, तालव्य
+letters_retroflex, Retroflex, प्रत्यक
+letters_dental, Dental, दंत्य
+letters_bilabial, Bilabial, उपध्वनि
+letters_vyanjans, Vyanjan, व्यंजन
+
+
+Barakhadi, Barakhadi, बारहखड़ी
+Velar, Velar, वेलार
+Palatal, Palatal, तालव्य
+Retroflex, Retroflex, प्रत्यक
+Dental, Dental, दंत्य
+Bilabial, Bilabial, उपध्वनि
+Vyanjans, Vyanjans, व्यंजन
+
+Alphabets, Alphabets, अक्षर
+profile_english, Switch Language to English, भाषा को अंग्रेजी में बदलें
+
+language_confirm, Confirm, पुष्टिकरन
+language_desc, Changing language will restart the Application Are you sure?, भाषा बदलने से एप्लिकेशन पुनः प्रारंभ हो जाएगा क्या आप निश्चित हैं?
+yes, yes , हाँ
+no , no , नहीं
+
+h1, It calculates the percentage completion of user, यह उपयोगकर्ता के प्रतिशत पूर्णता की गणना करता है
+h2, Search any word and practice it with its respective diagrams, किसी भी शब्द को खोजें और उससे संबंधित आरेखों के साथ उसका अभ्यास करें
+h3, Navigate through different sections, विभिन्न अनुभागों के माध्यम से नेविगेट करें
+h4, Practice letters into detail which are further dicied into swar velar etc, अक्षरों का विस्तार से अभ्यास करें जिन्हें आगे स्वर वेलार आदि में विभाजित किया गया है
+h5, Practice random words, यादृच्छिक शब्दों का अभ्यास करें
+h6, Practice sentences and test yourself, वाक्यों का अभ्यास करें और स्वयं का परीक्षण करें
+h7, Guide through various components in your screen, अपनी स्क्रीन में विभिन्न घटकों के माध्यम से मार्गदर्शन करें
+h8, Navbar to navigate through different sections of app, ऐप के विभिन्न अनुभागों के माध्यम से नेविगेट करने के लिए नेवबार 
