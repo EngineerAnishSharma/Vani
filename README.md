@@ -1,5 +1,7 @@
 # Vani App
 
+[![Watch the Demo](https://youtu.be/KyxUPX1sgcM)
+
 ## Brief Overview
 
 Vani is a speech restoration app designed to assist individuals in regaining their speech abilities. It incorporates a gamified experience to make the rehabilitation process engaging and rewarding.
@@ -20,7 +22,6 @@ Users are presented with a video and corresponding sound. The challenge is to se
 
 ### Playground Examples
 
-
 #### Bandlab Style Audio Mixer
 
 Create an audio mixer game inspired by Bandlab, utilizing basic phonetic sounds. Users can experiment with mixing sounds, contributing to their speech rehabilitation while earning stars.
@@ -32,4 +33,3 @@ Allow users to type any text into a field, and the app converts it into an anima
 ### Earning Stars
 
 Every game, except playgrounds, contributes to users earning stars. The number of stars earned is directly tied to the difficulty level and the user's performance.
-
