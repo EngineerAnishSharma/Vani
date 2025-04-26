@@ -1,6 +1,6 @@
 # Vani App
 
-[![Watch the Demo](https://youtu.be/KyxUPX1sgcM)
+[![Watch the Demo]](https://youtu.be/KyxUPX1sgcM)
 
 ## Brief Overview
 
